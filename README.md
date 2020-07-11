@@ -10,5 +10,7 @@
     <img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-8134af?&logoColor=fefefe&logo=instagram"/>
   </a>
 </h2>
-<p>Oi, I'm Mat (he/him)—a just graduated 🎓 IT Technician by UNIVAP - Centro, from Brazil.  
-Huge fan of emojis, games, netflix and animes, check my certs and projects in the 📌 pinned repositories below!<p>
+<p>
+  Oi, I'm Mat (he/him)—a just graduated 🎓 IT Technician by UNIVAP - Centro, from Brazil.<br/>
+  Huge fan of emojis, games, netflix and animes, check my certs and projects in the 📌 pinned repositories below!
+<p>
