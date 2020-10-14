@@ -1,6 +1,6 @@
 <h1 align="center">✨ Mateus Aquino ✨<br/>
   <sup>
-    <sup>Front-end Developer</sup>
+    <sup>Full Stack Developer</sup>
     <br/>
     <a href="https://www.linkedin.com/in/mateusaquino/">
       <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=fefefe"/>
