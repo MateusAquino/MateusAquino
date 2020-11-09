@@ -10,6 +10,12 @@
     </a>
     <a href="https://www.instagram.com/mateusakino/">
       <img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-8134af?&logoColor=fefefe&logo=instagram"/>
+    </a> 
+    <a href="https://www.behance.net/MateusAqb">
+      <img alt="Behance Badge" src="https://img.shields.io/badge/-Behance-0056ff?&logoColor=fefefe&logo=behance"/>
+    </a>
+    <a href="https://discord.com/app">
+      <img alt="Discord Badge: Mafios#1972" src="https://img.shields.io/badge/-Mafios%231972-7289da?&logoColor=fefefe&logo=discord"/>
     </a>
   </sup>
 </h1>
