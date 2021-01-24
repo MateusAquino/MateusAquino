@@ -8,13 +8,13 @@
     <a href="https://stackoverflow.com/users/7225971/mateus?tab=profile">
       <img alt="StackOverflow Badge" src="https://img.shields.io/badge/-StackOverflow-ef8236?&logoColor=fefefe&logo=StackOverflow"/>
     </a>
-    <a href="https://www.instagram.com/mateusakino/">
-      <img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-8134af?&logoColor=fefefe&logo=instagram"/>
-    </a> 
     <a href="https://www.behance.net/MateusAqb">
       <img alt="Behance Badge" src="https://img.shields.io/badge/-Behance-0056ff?&logoColor=fefefe&logo=behance"/>
     </a>
-    <a href="https://discord.com/app">
+    <a href="https://www.instagram.com/mateusakino/">
+      <img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-8134af?&logoColor=fefefe&logo=instagram"/>
+    </a> 
+    <a href="https://discord.com/users/138391131561000960">
       <img alt="Discord Badge: Mafios#1972" src="https://img.shields.io/badge/-Mafios%231972-7289da?&logoColor=fefefe&logo=discord"/>
     </a>
   </sup>
