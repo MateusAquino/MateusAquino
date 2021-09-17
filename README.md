@@ -2,21 +2,12 @@
   <sup>
     <sup>Full Stack Developer</sup>
     <br/>
-    <a href="https://www.linkedin.com/in/mateusaquino/">
-      <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=fefefe"/>
-    </a>
-    <a href="https://stackoverflow.com/users/7225971/mateus?tab=profile">
-      <img alt="StackOverflow Badge" src="https://img.shields.io/badge/-StackOverflow-ef8236?&logoColor=fefefe&logo=StackOverflow"/>
-    </a>
-    <a href="https://www.behance.net/MateusAqb">
-      <img alt="Behance Badge" src="https://img.shields.io/badge/-Behance-0056ff?&logoColor=fefefe&logo=behance"/>
-    </a>
-    <a href="https://www.instagram.com/mateusakino/">
-      <img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-8134af?&logoColor=fefefe&logo=instagram"/>
-    </a> 
-    <a href="https://discord.com/users/138391131561000960">
-      <img alt="Discord Badge: Mafios#1972" src="https://img.shields.io/badge/-Mafios%231972-7289da?&logoColor=fefefe&logo=discord"/>
-    </a>
+    
+[![](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=fefefe)](https://www.linkedin.com/in/mateusaquino)
+[![](https://img.shields.io/badge/-StackOverflow-ef8236?&logoColor=fefefe&logo=StackOverflow)](https://stackoverflow.com/users/7225971/mateus?tab=profile)
+[![](https://img.shields.io/badge/-Behance-0056ff?&logoColor=fefefe&logo=behance)](https://www.behance.net/MateusAqb)
+[![](https://img.shields.io/badge/-Instagram-8134af?&logoColor=fefefe&logo=instagram)](https://www.instagram.com/mateusakino)
+[![](https://img.shields.io/badge/-Mafios%231972-7289da?&logoColor=fefefe&logo=discord)](https://discord.com/users/138391131561000960)
   </sup>
 </h1>
 <p>
