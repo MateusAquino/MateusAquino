@@ -1,10 +1,10 @@
 <p align="left">
-  <a target="_blank" href="https://ayo.so/mafios"><img width="270px" alt="Ayo.so Card" title="Ayo.so Card" align="right" src="https://user-images.githubusercontent.com/16140783/182029896-a2fb69ef-5b13-4824-8c16-01f64ec121fa.gif"/></a>
   <samp>「</samp>
 </p>
-<h1 align="center"><samp>🗻 Mateus Aquino 🎴<br/><sup>Backend Developer</sup></samp></h1>
+<h1 align="center"><samp>🗻 Mateus Aquino 🎴<br/><sup>Software Engineer</sup></samp></h1>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/mateusaquino"><img src="https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=fefefe"></a>
+  <a target="_blank" href="https://discord.com/users/138391131561000960"><img src="https://img.shields.io/badge/-Discord-7289da?&logo=Discord&logoColor=fefefe"></a>
   <a target="_blank" href="https://stackoverflow.com/users/7225971/mateus?tab=profile"><img src="https://img.shields.io/badge/-StackOverflow-ef8236?&logoColor=fefefe&logo=StackOverflow"></a>
   <a target="_blank" href="https://www.behance.net/MateusAqb"><img src="https://img.shields.io/badge/-Behance-0056ff?&logoColor=fefefe&logo=behance"></a> 
   <p align="right"><samp>」</samp></p>
@@ -23,10 +23,11 @@ defmodule MateusAquino do
 
   def titles do
     Map.new()
-    |> Map.put("🎓", "Featured Computing Technician Student @ UNIVAP")
+    |> Map.put("🎓", "Featured Computing Technician Student")
     |> Map.put("💻", "Elixir Backend Developer")
-    |> Map.put("🧬", "Bachelor in Biomedicine")
-    |> Map.put("🧠", "Aspiring Master in Neuroengineering @ ISD/IIN-ELS")
+    |> Map.put("🧪", "Bachelor of Biomedicine")
+    |> Map.put("🧬", "Specialized in Bioinformatics")
+    |> Map.put("🧠", "Aspiring Master in Neuroengineering")
   end
 end
 ```
