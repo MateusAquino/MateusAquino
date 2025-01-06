@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"><samp>🗻 Mateus Aquino 🎴<br/><sup>Software Engineer</sup></samp></h1>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/mateusaquino"><img src="https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=fefefe"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/mateusaquino"><img src="https://img.shields.io/badge/-LinkedIn-blue?&logo=LogMeIn&logoColor=fefefe"></a>
   <a target="_blank" href="https://discord.com/users/138391131561000960"><img src="https://img.shields.io/badge/-Discord-7289da?&logo=Discord&logoColor=fefefe"></a>
   <a target="_blank" href="https://stackoverflow.com/users/7225971/mateus?tab=profile"><img src="https://img.shields.io/badge/-StackOverflow-ef8236?&logoColor=fefefe&logo=StackOverflow"></a>
   <a target="_blank" href="https://www.behance.net/MateusAqb"><img src="https://img.shields.io/badge/-Behance-0056ff?&logoColor=fefefe&logo=behance"></a> 
@@ -12,7 +12,7 @@
 
 <br/>
 <p>
-  Oi, I'm Mat (he/him)—a huge fan of emojis, games, netflix and animes, check my certs and projects in the 📌 pinned repositories below!<br/>
+  Hi, I'm Mat! I love exploring technology, games, IAs, and animes. Check out my certifications and projects in the 📌 pinned repositories below.<br/>
 </p>
 
 ```elixir
