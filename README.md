@@ -6,7 +6,6 @@
   <a target="_blank" href="https://www.linkedin.com/in/mateusaquino"><img src="https://img.shields.io/badge/-LinkedIn-blue?&logo=LogMeIn&logoColor=fefefe"></a>
   <a target="_blank" href="https://discord.com/users/138391131561000960"><img src="https://img.shields.io/badge/-Discord-7289da?&logo=Discord&logoColor=fefefe"></a>
   <a target="_blank" href="https://stackoverflow.com/users/7225971/mateus?tab=profile"><img src="https://img.shields.io/badge/-StackOverflow-ef8236?&logoColor=fefefe&logo=StackOverflow"></a>
-  <a target="_blank" href="https://www.behance.net/MateusAqb"><img src="https://img.shields.io/badge/-Behance-0056ff?&logoColor=fefefe&logo=behance"></a> 
   <p align="right"><samp>」</samp></p>
 </p>
 
